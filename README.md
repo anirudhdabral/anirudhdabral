@@ -1,8 +1,5 @@
-# Hi there 👋
-
-- 🌏 I'm based in India
-- 🔭 I’m currently working as Associate Engineer at Nagarro
-- 🌱 I’m currently learning MERN and Redux
+# Hello there 👋 
+I'm Anirudh Dabral, a Computer Science graduate. I'm passionate about building web applications. Currently, I'm working as Associate Engineer at Nagarro.
 
 ## Skills
 <p>

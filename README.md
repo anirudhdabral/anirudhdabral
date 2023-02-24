@@ -1,7 +1,8 @@
 # Hello there 👋 
-I'm Anirudh Dabral, a Computer Science graduate. I'm passionate about building web applications. Currently, I'm working as Associate Engineer at Nagarro.
+I'm Anirudh Dabral, a Computer Science graduate. I live and breathe software development and I'm passionate about building modern and user-friendly web applications.
+Currently, I'm working as Associate Engineer at Nagarro.
 
-## Skills
+## Skills 🚀
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -19,3 +20,12 @@ I'm Anirudh Dabral, a Computer Science graduate. I'm passionate about building w
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
+## Certifications 🎓
+- HackerRank Certifications in
+    - [Java (Basic)](https://www.hackerrank.com/certificates/10b37e321991)
+    - [Python (Intermediate)](https://www.hackerrank.com/certificates/d5af042da205)
+    - [CSS](https://www.hackerrank.com/certificates/9ea1ee5de630)
+    - [JavaScript (Basic)](https://www.hackerrank.com/certificates/5538981409fe)
+    - [Problem Solving (Basic)](https://www.hackerrank.com/certificates/b5e5c440612b)
+    - [SQL (Basic)](https://www.hackerrank.com/certificates/88bf30e4328d)
+- A+ grade in Precursor Info Solutions' Python with ML

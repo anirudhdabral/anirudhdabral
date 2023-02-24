@@ -22,10 +22,10 @@ Currently, I'm working as Associate Engineer at Nagarro.
 
 ## Certifications 🎓
 - HackerRank Certifications in
-    - <a href="https://www.hackerrank.com/certificates/10b37e321991" target="_blank">Java (Basic)</a>
-    - <a href="https://www.hackerrank.com/certificates/d5af042da205" target="_blank">Python (Intermediate)</a>
-    - <a href="https://www.hackerrank.com/certificates/9ea1ee5de630" target="_blank">CSS</a>
-    - <a href="https://www.hackerrank.com/certificates/5538981409fe" target="_blank">JavaScript (Basic)</a>
-    - <a href="https://www.hackerrank.com/certificates/b5e5c440612b" target="_blank">Problem Solving (Basic)</a>
-    - <a href="https://www.hackerrank.com/certificates/88bf30e4328d" target="_blank">SQL (Basic)</a>
+    - [Java (Basic)](https://www.hackerrank.com/certificates/10b37e321991)
+    - [Python (Intermediate)](https://www.hackerrank.com/certificates/d5af042da205)
+    - [CSS](https://www.hackerrank.com/certificates/9ea1ee5de630)
+    - [JavaScript (Basic)](https://www.hackerrank.com/certificates/5538981409fe)
+    - [Problem Solving (Basic)](https://www.hackerrank.com/certificates/b5e5c440612b)
+    - [SQL (Basic)](https://www.hackerrank.com/certificates/88bf30e4328d)
 - A+ grade in Precursor Info Solutions' Python with ML
